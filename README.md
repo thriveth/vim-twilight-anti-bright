@@ -19,7 +19,7 @@ Running in the console, editing a Markdown file.
 
 Running in the console, editing a Python file:
 
-![](./images/TAB-Console-python.png)
+![](./images/TAB-Console-Python.png)
 
 Gvim, editing Python file:
 
